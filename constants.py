@@ -98,48 +98,14 @@ ANKING_AFMT_APPEND = """
 </script>
 
 
-<div class="clozefield">{{cloze:Text}}</div>
-
-<!-- ##############  EDIT CLOZE DURING REVIEW  ##############
-			-change below (not above) to  "edit:cloze:Text" for editable field, 
-				but be sure to have the correct add-on installed-->
-
-<div class="editcloze">{{edit:cloze:Text}}</div>
-
-
 <!-- ##############  TEXT-TO-SPEECH ##############
 replace the arrows/dashes from the statement below with double brackets-->
 
 <!--tts en_US voices=Apple_Samantha speed=1.4:cloze-only:Text-->
 
 
-<hr>
-
-
 <!-- ##############  SHOW HINTS AUTOMATICALLY  ##############
 For instructions on how to show a field automatically,  visit www.ankingmed.com/faq and type "show hint" into the search bar -->
-
-<!-- LECTURE NOTES FIELD -->
-{{#Lecture Notes}}<a href="#" class="hint" id="hint-ln" onclick="this.style.display='none'; myFunction('button-ln', 'hint-ln', 'button-ln'); return false;">
-        <button class="button-ln"><img src="_Anking_v3.png"> Lecture Notes</button></a>{{/Lecture Notes}}
-
-<div id="button-ln" class="generalclass" style="display:none;">
-    {{#Lecture Notes}}<button onclick="document.getElementById('hint-ln').style.display='inline-block'; myFunction('button-ln', 'hint-ln', 'button-ln')" class="button-ln" style="background:#ababab; color:black!important; font-weight:bold; width:50%!important;"><img src="_Anking_v3.png"> Lecture Notes</button>
-        <br>
-        <div class="hints" id="lecture">{{edit:Lecture Notes}}</div>
-    {{/Lecture Notes}}</div>
-
-<!-- ADDITIONAL RESOURCES FIELD -->
-{{#Additional Resources}}<a href="#" class="hint" id="hint-ar" onclick="this.style.display='none'; myFunction('button-ar', 'hint-ar', 'button-ar'); return false;">
-        <button class="button-ar"><img src="_Anking_v3.png"> Additional Resources</button></a>{{/Additional Resources}}
-
-<div id="button-ar" class="generalclass" style="display:none;">
-    {{#Additional Resources}}<button onclick="document.getElementById('hint-ar').style.display='inline-block'; myFunction('button-ar', 'hint-ar', 'button-ar')" class="button-ar" style="background:#ababab; color:black!important; font-weight:bold; width:50%!important;"><img src="_Anking_v3.png"> Additional Resources</button>
-        <br>
-        <div class="hints" id="additional">{{edit:Additional Resources}}</div>
-    {{/Additional Resources}}</div>
-
-
 
 
 <script>
@@ -343,7 +309,7 @@ For instructions on how to show a field automatically,  visit www.ankingmed.com/
         border: 0;
         cursor: pointer;
         font-family: 'Josefin Sans', sans-serif;
-        font-size: 20px;
+        font-size: 28px;
         outline: none;
         text-align: right;
         z-index: 112;
@@ -439,6 +405,8 @@ For instructions on how to show a field automatically,  visit www.ankingmed.com/
 ########################################################################################################################
 
 ANKING_CSS = """
+
+
 /*    ANKINGMASTER-v2.1   */
 
 /* The AnKing wishes you the best of luck! Be sure to check out our YouTube channel and Instagram for all things Anki and Med School related (including how to customize this card type and use these decks):  
@@ -468,7 +436,7 @@ ANKING_CSS = """
 		/* NOTE: anything with 'px' will keep a font that size indefinitely, 'rem' is a fraction of this size above and allows all text to change size with the above setting */
 
 /*IPAD ADJUSTMENTS*/
-.ipad .card, .ipad #extra {font-size:28px;}
+.ipad .card, .ipad #extra {font-size:18px;}
 .ipad .hints {font-size:24px;}
 .ipad #firstaid, .ipad #sketchy, .ipad #pixorize, .ipad #physeo, .ipad #additional { font-size: 20px!important; }
 
@@ -537,7 +505,7 @@ html { min-height: 100%; display: flex; flex-direction: column; }
 
 /* Formatting For Timer */
 .timer {
-font-size: 20px;
+font-size: 28px;
 margin: 12em auto auto auto;
 }
 
@@ -546,7 +514,7 @@ margin: 12em auto auto auto;
 text-align: center;
 font-size: 1rem;
 height: 100%;
-margin: 0px 15px;
+margin: 2rem;
 flex-grow: 1;
 padding-bottom: 1em;
 }
@@ -857,7 +825,7 @@ kbd:nth-of-type(10n+0) { border-color: #607D8B; color: #607D8B!important; }
   }
 
 
-.mobile .button-ln,  .mobile .button-mq,  .mobile .button-pat,  .mobile .button-bb,  .mobile .button-fa,  .mobile .button-sketchy,  .mobile .button-pixorize,  .mobile .button-physeo,  .mobile .button-ar { font-size: 18px; padding: 9px 7px; }
+.mobile .button-ln,  .mobile .button-mq,  .mobile .button-pat,  .mobile .button-bb,  .mobile .button-fa,  .mobile .button-sketchy,  .mobile .button-pixorize,  .mobile .button-physeo,  .mobile .button-ar { font-size: 28px; padding: 9px 7px; }
 /*Start of style added by resize image add-on. Don't edit directly or the edition will be lost. Edit via the add-on configuration */
 .mobile .card img {height:unset  !important; width:unset  !important;}
 /*End of style added by resize image add-on*/
