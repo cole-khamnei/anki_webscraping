@@ -1,5 +1,5 @@
 # Anki Webscraping Projects:
-- Wiki Journal Club Clinical Trial Package - 
+- Wiki Journal Club Clinical Trial Package - [WJC_clinical_trial.apk](anki_packages/WJC_clinical_trials.apkg)
 - Radiology Package -
 
 
