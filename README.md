@@ -1,8 +1,7 @@
 # Anki Webscraping Projects:
-- Wiki Journal Club Clinical Trial Package - <a href="anki_packages/WJC_clinical_trials.apkg" download>Download</a>
-- Radiology Package -
+- Wiki Journal Club Clinical Trial Package - [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
+- Radiology Package - [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/radiology_images.apkg)
 
-[download this](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 
 
 
