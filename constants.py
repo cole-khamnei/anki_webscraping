@@ -439,12 +439,14 @@ ANKING_CSS = """
 .ipad .card, .ipad #extra {font-size:18px;}
 .ipad .hints {font-size:24px;}
 .ipad #firstaid, .ipad #sketchy, .ipad #pixorize, .ipad #physeo, .ipad #additional { font-size: 20px!important; }
+.ipad .collapsible {font-size:20px; width: 20%;}
 
 /*HINT FONT SIZE*/ .hints 
 	{ font-size: .85rem; }
    /*First Aid, Sketchy, Physeo, Additional Resources Font Size*/
 	#firstaid, #sketchy, #pixorize, #physeo, #additional { font-size: .6rem !important; } 
    /*First Aid, Sketchy, Physeo, Additional Resources Font Size on Mobile*/
+   .mobile .collapsible {font-size:20px; width: 50%;}
   .mobile #firstaid, .mobile #sketchy, .mobile #pixorize, .mobile #physeo, .mobile #additional { font-size: 20px!important; }
 
 /*FONT STYLE*/	
