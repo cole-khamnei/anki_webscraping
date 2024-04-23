@@ -2,7 +2,7 @@
 - Wiki Journal Club Clinical Trial Package - <a href="anki_packages/WJC_clinical_trials.apkg" download>Download</a>
 - Radiology Package -
 
-[download this](raw/main/anki_packages/WJC_clinical_trials.apkg)
+[download this](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 
 
 
