@@ -1,4 +1,6 @@
 # Anki Webscraped Decks for Clinical Medicine:
+A collection of anki decks for learning different aspects of clinical medicine. Each deck contains relevent subject/subspecialty tags and subdecks.<br>
+
 - Wiki Journal Club Clinical Trials Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 - The Bottom Line Deck (clinical trial summaries similar to WJC): [Download Link]
 - Radiology Masterclass: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/radiology_images.apkg)
