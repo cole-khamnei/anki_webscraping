@@ -7,10 +7,12 @@ A collection of anki decks for learning different aspects of clinical medicine. 
 
 # Wiki Journal Club Clinical Trials Anki Deck
 <img align="right" src="resources/WJC_example_image.png" alt="drawing" width="250"/>
-<br> An anki deck from https://www.wikijournalclub.org, that uses the "bottom line" as the answer card <br><br>
+<br> An anki deck from Wiki Journal Club clinical trial summaries that uses the "bottom line" as the answer card <br><br>
 
 Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 <br clear="right"/>
+
+Source: https://www.wikijournalclub.org
 
 <!-- ![Alt text](resources/WJC_example_image.png?raw=true "WJC Example") -->
 
@@ -24,6 +26,4 @@ Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/
 Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/radiology_images.apkg)
 <br clear="right"/>
 
-# Sources:
-- WJC Clinical Trials: (https://www.wikijournalclub.org)
-- Radiology Package: (https://www.radiologymasterclass.co.uk/gallery/galleries)
+Soource: https://www.radiologymasterclass.co.uk/gallery/galleries
