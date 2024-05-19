@@ -19,7 +19,7 @@ Source:  https://www.thebottomline.org.uk/summaries/
 <br> Another clinical trial anki deck from Wiki Journal Club's (WJC) excellent summaries that uses the "bottom line" as the answer card. WJC covers many large, must-know trials for different fields. WJC trials are often less recent than The Bottom Line. <br><br>
 
 Deck:  [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
-<br>
+<br><br>
 Source:  https://www.wikijournalclub.org
 <br clear="right"/>
 
