@@ -2,12 +2,21 @@
 A collection of anki decks for learning different aspects of clinical medicine. Each deck contains relevent subject/subspecialty tags and subdecks.<br>
 
 - Wiki Journal Club Clinical Trials Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
-- The Bottom Line Deck (clinical trial summaries similar to WJC): [Download Link]
+- The Bottom Line Deck (Summaries similar to WJC): [Download Link]
 - Radiology Masterclass: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/radiology_images.apkg)
+
+# The Bottom Line Clinical Trials Anki Deck
+<img align="right" src="resources/WJC_example_image.png" alt="drawing" width="250"/>
+<br> An anki deck from The Bottom Line excellent summaries that uses the "bottom line" as the answer card. Many recent large trials are included (DanGer Shock, Acorn, ADVOR, etc). Will be updated routinely (all deck updates will be backwards compatible). <br><br>
+
+Deck: <i> Not uploaded yet </i>
+<br>
+Source: https://www.thebottomline.org.uk/summaries/
+<br clear="right"/>
 
 # Wiki Journal Club Clinical Trials Anki Deck
 <img align="right" src="resources/WJC_example_image.png" alt="drawing" width="250"/>
-<br> An anki deck from Wiki Journal Club clinical trial summaries that uses the "bottom line" as the answer card <br><br>
+<br> Another anki deck from Wiki Journal Club clinical trial excellent summaries that uses the "bottom line" as the answer card. WJC covers many large, must-know trials for different fields. WJC trials are often less recent than The Bottom Line. <br><br>
 
 Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 <br>
