@@ -1,4 +1,7 @@
-# Anki Webscraping Projects:
+# Anki Webscraped Decks for Clinical Medicine:
+- Wiki Journal Club Clinical Trials Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
+- The Bottom Line Deck (clinical trial summaries similar to WJC): [Download Link]
+- Radiology Masterclass: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/radiology_images.apkg)
 
 # Wiki Journal Club Clinical Trials Anki Deck
 <img align="right" src="resources/WJC_example_image.png" alt="drawing" width="250"/>
