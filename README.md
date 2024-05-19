@@ -7,7 +7,8 @@ DecK: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/
 
 
 ## WJC Card Example:
-![Alt text](resources/WJC_example_image.png?raw=true "WJC Example")
+<img src="resources/WJC_example_image.png" alt="drawing" width="200"/>
+<!-- ![Alt text](resources/WJC_example_image.png?raw=true "WJC Example") -->
 
 
 # Intro to Radiology Deck
