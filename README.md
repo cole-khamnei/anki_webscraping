@@ -7,7 +7,7 @@ A collection of anki decks for learning different aspects of clinical medicine. 
 
 # <i>The Bottom Line</i> Deck
 <img align="right" src="resources/bottom_line_example.png" alt="drawing" width="250"/>
-<br> An anki deck from The Bottom Line excellent summaries of clinical trials that uses the "bottom line" as the answer card. Many recent large trials are included (DanGer Shock, ACORN, ADVOR, etc). Will be updated routinely (all deck updates will be backwards compatible). <br><br>
+<br> An anki deck from The Bottom Line excellent summaries of clinical trials that uses the "bottom line" as the answer card. Many recent large trials are included (<i>DanGer Shock, ACORN, ADVOR, etc </i>). Will be updated routinely (all deck updates will be backwards compatible). <br><br>
 
 Deck: <i>  Not uploaded yet </i>
 <br><br>
