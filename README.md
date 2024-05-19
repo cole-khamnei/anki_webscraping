@@ -6,6 +6,7 @@
 
 Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 <br>
+<br clear="right"/>
 
 <!-- ![Alt text](resources/WJC_example_image.png?raw=true "WJC Example") -->
 
