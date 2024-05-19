@@ -3,8 +3,9 @@
 # Wiki Journal Club Clinical Trials Anki Deck
 <img align="right" src="resources/WJC_example_image.png" alt="drawing" width="400"/>
 <br> An anki deck from https://www.wikijournalclub.org, that uses the "bottom line" as the answer card,
-
-DecK: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
+<br> 
+<br> 
+Deck: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/WJC_clinical_trials.apkg)
 <br>
 
 <!-- ![Alt text](resources/WJC_example_image.png?raw=true "WJC Example") -->
