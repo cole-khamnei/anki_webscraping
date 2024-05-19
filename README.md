@@ -6,7 +6,7 @@ A collection of anki decks for learning different aspects of clinical medicine. 
 - Radiology Masterclass: [Download Link](https://github.com/cole-khamnei/anki_webscraping/raw/main/anki_packages/radiology_images.apkg)
 
 # <i>The Bottom Line</i> Deck
-<img align="right" src="resources/WJC_example_image.png" alt="drawing" width="250"/>
+<img align="right" src="resources/bottom_line_example.png" alt="drawing" width="250"/>
 <br> An anki deck from The Bottom Line excellent summaries of clinical trials that uses the "bottom line" as the answer card. Many recent large trials are included (DanGer Shock, Acorn, ADVOR, etc). Will be updated routinely (all deck updates will be backwards compatible). <br><br>
 
 Deck: <i>  Not uploaded yet </i>
