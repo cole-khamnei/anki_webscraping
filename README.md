@@ -1,7 +1,7 @@
 # Anki Webscraping Projects:
 
 # Wiki Journal Club Clinical Trials Anki Deck
-<img align="right" src="resources/WJC_example_image.png" alt="drawing" width="400"/>
+<img align="right" src="resources/WJC_example_image.png" alt="drawing" width="300"/>
 <br> An anki deck from https://www.wikijournalclub.org, that uses the "bottom line" as the answer card,
 <br> 
 <br> 
